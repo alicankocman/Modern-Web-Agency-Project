@@ -32,7 +32,7 @@ Modern ve profesyonel bir web ajansı için geliştirilmiş, Next.js tabanlı ku
 ## ⚙️ Kurulum
 * Repoyu klonlayın
 ``` jsx
-git clone "https://github.com/alicankocman/web-ajansi.git"
+git clone "https://github.com/alicankocman/Modern-Web-Agency-Project.git"
 ```
 *Proje dizinine gidin
 ``` jsx
