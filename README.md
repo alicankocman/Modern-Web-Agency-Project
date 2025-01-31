@@ -34,15 +34,15 @@ Modern ve profesyonel bir web ajansı için geliştirilmiş, Next.js tabanlı ku
 ``` jsx
 git clone "https://github.com/alicankocman/Modern-Web-Agency-Project.git"
 ```
-*Proje dizinine gidin
+* Proje dizinine gidin
 ``` jsx
 cd web-ajansi
 ```
-*Bağımlılıkları yükleyin
+* Bağımlılıkları yükleyin
 ``` jsx
 npm install
 ```
-*Geliştirme sunucusunu başlatın
+* Geliştirme sunucusunu başlatın
 ``` jsx
 npm run dev
 ```
