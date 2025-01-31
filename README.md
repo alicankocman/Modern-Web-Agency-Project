@@ -2,6 +2,8 @@
 
 Modern ve profesyonel bir web ajansı için geliştirilmiş, Next.js tabanlı kurumsal web sitesi projesi.
 
+🌐 [Canlı Demo](https://modern-web-agency-projectt.vercel.app)
+
 ## ✨ Özellikler
 
 - 🎯 Modern ve responsive tasarım
@@ -30,7 +32,7 @@ Modern ve profesyonel bir web ajansı için geliştirilmiş, Next.js tabanlı ku
 ## ⚙️ Kurulum
 * Repoyu klonlayın
 ``` jsx
-git clone "https://github.com/kullaniciadi/web-ajansi.git"
+git clone "https://github.com/alicankocman/web-ajansi.git"
 ```
 *Proje dizinine gidin
 ``` jsx
